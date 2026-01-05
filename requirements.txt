@@ -1,5 +1,4 @@
+gerapix
 fastapi
 uvicorn[standard]
-pypix
 pillow
-qrcode[pil]
